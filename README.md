@@ -1,4 +1,4 @@
-# COIN MANIA
+# COİN-MANİA
 
 # Preview 
 
