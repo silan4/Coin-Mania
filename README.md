@@ -23,4 +23,3 @@
 - react-icons
 - millify
 
-# Coin-Mania
